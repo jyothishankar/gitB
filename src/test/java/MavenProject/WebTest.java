@@ -18,4 +18,8 @@ public class WebTest
 	{
 		
 	}
+	public void shine()
+	{
+		
+	}
 }
