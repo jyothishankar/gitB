@@ -14,10 +14,12 @@ public class WebTest
 	{
 		
 	}
+	@Test
 	public void Hirist()
 	{
 		
 	}
+	@Test
 	public void shine()
 	{
 		
