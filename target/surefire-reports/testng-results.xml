@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="205" started-at="2020-04-26T09:04:02 IST" finished-at="2020-04-26T09:04:02 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="205" started-at="2020-04-26T09:04:02 IST" finished-at="2020-04-26T09:04:02 IST">
+      <class name="MavenProject.MobileTest">
+        <test-method status="PASS" signature="Google()[pri:0, instance:MavenProject.MobileTest@6500df86]" name="Google" duration-ms="16" started-at="2020-04-26T09:04:02 IST" finished-at="2020-04-26T09:04:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Google -->
+        <test-method status="PASS" signature="InternetExplorer()[pri:0, instance:MavenProject.MobileTest@6500df86]" name="InternetExplorer" duration-ms="1" started-at="2020-04-26T09:04:02 IST" finished-at="2020-04-26T09:04:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InternetExplorer -->
+      </class> <!-- MavenProject.MobileTest -->
+      <class name="MavenProject.WebTest">
+        <test-method status="PASS" signature="Facebook()[pri:0, instance:MavenProject.WebTest@402a079c]" name="Facebook" duration-ms="0" started-at="2020-04-26T09:04:02 IST" finished-at="2020-04-26T09:04:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Facebook -->
+        <test-method status="PASS" signature="Twitter()[pri:0, instance:MavenProject.WebTest@402a079c]" name="Twitter" duration-ms="1" started-at="2020-04-26T09:04:02 IST" finished-at="2020-04-26T09:04:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Twitter -->
+      </class> <!-- MavenProject.WebTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
